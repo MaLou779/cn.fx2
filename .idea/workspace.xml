@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d3130ec-b31b-419c-949a-de2ef8a0d453" name="Default Changelist" comment="kill commit test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\IntelliJ IDEA\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jStXYDlutuhq8tP74yE5q2OEOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/桌面/工作/610/nguSeckill-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AccountProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-account-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.account.AccountProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-activity-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.activity.ActivityProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-mall-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.mall.MallCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-order-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.order.OrderProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatFinanceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-stat-finance-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.stat.finance.StatFinanceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-store-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.store.StoreProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fx2-third-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fx2.third.ThirdProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3130ec-b31b-419c-949a-de2ef8a0d453" name="Default Changelist" comment="" />
+      <created>1603809360227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603809360227</updated>
+      <workItem from="1603809367336" duration="2191000" />
+      <workItem from="1603811621222" duration="604000" />
+      <workItem from="1603812250655" duration="527000" />
+      <workItem from="1603854082470" duration="3940000" />
+    </task>
+    <task id="LOCAL-00001" summary="kill commit test">
+      <created>1603860887646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603860887646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kill commit test">
+      <created>1603860913021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603860913021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kill commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="kill commit test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="213" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604062694546">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="213" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604062694546" />
+    <state x="745" y="412" key="#通知" timestamp="1603982468017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="412" key="#通知/0.0.1920.1080@0.0.1920.1080" timestamp="1603982468017" />
+    <state x="474" y="219" key="FileChooserDialogImpl" timestamp="1604063274509">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="474" y="219" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604063274509" />
+    <state x="379" y="207" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1603854525088" />
+    <state width="671" height="210" key="GridCell.Tab.0.bottom" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.0.center" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.0.left" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.0.right" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.1.bottom" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.1.bottom/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.1.center" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.1.center/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.1.left" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.1.left/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state width="671" height="210" key="GridCell.Tab.1.right" timestamp="1603854459391">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="671" height="210" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1603854459391" />
+    <state x="378" y="169" key="SettingsEditor" timestamp="1604064623281">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="378" y="169" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604064623281" />
+    <state x="270" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1603811774834" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1603860917886">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1603860917886" />
+    <state x="704" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604063574663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604063574663" />
+    <state x="563" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1536.824@0.40.1536.824" timestamp="1603860842192" />
+    <state x="1020" y="364" key="svn.repositoryBrowser" timestamp="1604063842232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1020" y="364" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1604063842232" />
+  </component>
+</project>
